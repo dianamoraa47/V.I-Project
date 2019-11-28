@@ -1,0 +1,46 @@
+Ultrasonic sensor
+ arrtibutes how they work
+
+how ultrasensor works
+Ultrasonic sound vibrates at a frequency above the 
+An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves.
+
+Ultrasonic sound vibrates at a frequency above the range of human hearing.  
+
+Transducers are the microphones used to receive and send the ultrasonic sound.
+
+Our ultrasonic sensors, like many others, use a single transducer to send a pulse and to receive the echo.  
+The sensor determines
+ the distance to a target by measuring time lapses between the sending and receiving of the ultrasonic pulse.
+
+
+
+Why use an Ultrasonic Sensor?
+Ultrasound is reliable in any lighting environment and can be used inside or outside.  
+Ultrasonic sensors can handle collision avoidance for a robot, and being moved often, as long as it isn’t too fast.  
+
+Ultrasonics are so widely used, they can be reliably implemented in grain bin sensing applications, water level sensing,
+ drone applications and sensing cars at your local drive-thru restaurant or bank.
+
+Ultrasonic rangefinders are commonly used as devices to detect a collision.  
+
+Ultrasonic Sensors are best used in the non-contact detection of:
+
+
+An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves.
+An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object’s proximity.  
+
+Presence
+Level
+Position
+Distance
+
+Ultrasonics are Independent of:
+Light
+Smoke
+Dust
+Color
+Material (except for soft surfaces, i.e. wool, because the surface absorbs the ultrasonic sound wave and doesn’t reflect sound.)
+ 
+A transducer is a device that converts energy from one form to another.
+ Usually a transducer converts a signal in one form of energy to a signal in another
